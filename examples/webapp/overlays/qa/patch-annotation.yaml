@@ -1,0 +1,4 @@
+- op: add
+  path: /metadata/annotations
+  value:
+    training.example.com/owner: qa-team
